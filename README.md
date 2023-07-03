@@ -1,6 +1,4 @@
-### Hi there 👋
-
-- 📫 How to reach me:
+### 📫 How to reach me:
   - Discord: @marekch
   - Signal: DM me for my number
   - Session:
