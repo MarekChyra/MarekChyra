@@ -1,20 +1,4 @@
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarekChyra&show_icons=true&theme=tokyonight" />
-</a></p>
-<!--
-<p align="center"><a href="https://wakatime.com/@Marek">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@Marek/a73060db-fcf9-45df-99e5-823c33d25b4d.svg" />
-</a>
-<a href="https://wakatime.com/@Marek">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@Marek/4dc2dcb6-e564-4f53-ae44-eeb849af572e.svg" />
-</a></p>
-<p align="center"><a href="https://wakatime.com/@Marek">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@Marek/48118f9b-bf06-4678-8cd9-03e3f9ebe887.svg" />
-</a>
-<a href="https://wakatime.com/@Marek">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@Marek/a0a0b9e0-d44a-47e0-a91f-cfb9ffa4cf84.svg" />
-</a></p>
--->
+
 
 ### 📫 How to reach me:
   - Discord: @marekch
@@ -38,3 +22,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarekChyra&show_icons=true&theme=tokyonight" />
+</a></p>
+
+<p align="center"><a href="https://wakatime.com/@Marek">
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@Marek/a73060db-fcf9-45df-99e5-823c33d25b4d.svg" />
+</a>
+<a href="https://wakatime.com/@Marek">
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@Marek/4dc2dcb6-e564-4f53-ae44-eeb849af572e.svg" />
+</a></p>
+
+<p align="center"><a href="https://wakatime.com/@Marek">
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@Marek/48118f9b-bf06-4678-8cd9-03e3f9ebe887.svg" />
+</a>
+<a href="https://wakatime.com/@Marek">
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@Marek/a0a0b9e0-d44a-47e0-a91f-cfb9ffa4cf84.svg" />
+</a></p>
