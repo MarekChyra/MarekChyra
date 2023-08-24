@@ -16,7 +16,12 @@
   
   <details>
     <summary>Signal</summary>
-    <li>DM me for my number</li>
+    <li>DM me on discord for my number</li>
+  </details>
+  
+  <details>
+    <summary>SimpleX chat</summary>
+    <li>DM me on discord for my ID</li>
   </details>
   
   <details>
@@ -26,17 +31,6 @@
 | --- | --- |
 | 057a86540dc8ab35176330e300dcb12167651a8e18c67d908c1e6acdcb11689735  | <img src="session.png" style="width:300px">  |
     
-  </details>
-  
-  <details>
-    <summary>
-      SimpleX chat
-    </summary>
-    
-| ID | QR |
-| --- | --- |
-| [invitation link](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F1OwYGt-yqOfe2IyVHhxz3ohqo3aCCMjtB-8wn4X_aoY%3D%40smp11.simplex.im%2FJxN4IXeN8Q7ilyQA026ymgjzuHulB-Dp%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAYXf0yryMyLB35moTJNmR7_R-q6i5nVTnSf8YRnUgFBw%253D%26srv%3D6ioorbm6i3yxmuoezrhjk6f6qgkc4syabh7m3so74xunb5nzr4pwgfqd.onion) | <img src="SimpleX.jpg" style="width:300px"> |
-
   </details>
   
 <!--
