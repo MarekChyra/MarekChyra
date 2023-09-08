@@ -10,18 +10,22 @@
 
 ## 📫 How to reach me:
   <details>
-    <summary>Discord</summary>
-    <li>@marekch</li>
-  </details>
-  
-  <details>
     <summary>Signal</summary>
     <li>DM me on discord for my number</li>
   </details>
   
   <details>
-    <summary>SimpleX chat</summary>
-    <li>DM me on discord for my ID</li>
+    <summary>SimpleX Chat</summary>
+    
+| ID  | QR |
+| --- | --- |
+| [invitation link](https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FN_McQS3F9TGoh4ER0QstUf55kGnNSd-wXfNPZ7HukcM%3D%40smp19.simplex.im%2FiuLXoJ8RKlAGtqPSoPs8efpx14-TDpKH%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEADdwLxImsrMQVst8KB3k5h6GMlyDsGQDNk8sLcgIbFyI%253D%26srv%3Di53bbtoqhlc365k6kxzwdp5w3cdt433s7bwh3y32rcbml2vztiyyz5id.onion) | <img src="simplexchat.png" style="width:300px"> |
+    
+  </details>
+  
+  <details>
+    <summary>Discord</summary>
+    <li>@marekch</li>
   </details>
   
   <details>
