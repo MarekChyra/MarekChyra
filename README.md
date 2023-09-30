@@ -3,9 +3,6 @@
 </a></p>
 
 
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Marek">
-</a></p>
 
 
 ## 📫 How to reach me:
@@ -52,6 +49,10 @@ Here are some ideas to get you started:
 -->
 
 ## ⚡ Some random stats about my programming: 
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Marek">
+</a></p>
+
 <p align="center"><a href="https://wakatime.com/@Marek">
   <img align="center" width="400" height="300" src="https://wakatime.com/share/@Marek/a73060db-fcf9-45df-99e5-823c33d25b4d.svg" />
 </a>
