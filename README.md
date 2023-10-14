@@ -6,11 +6,12 @@
 
 
 ## 📫 How to reach me:
-  <details>
+<!--  <details>
     <summary>Signal</summary>
     <li>DM me on discord for my number</li>
   </details>
-  
+-->
+
   <details>
     <summary>SimpleX Chat</summary>
     
