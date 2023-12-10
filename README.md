@@ -14,7 +14,7 @@
 </div>
 
 
-## Keď mi chceš napísať a zlepšiť mi náladu:
+## Keď mi chceš napísať:
 <!--  <details>
     <summary>Signal</summary>
     <li>DM me on discord for my number</li>
