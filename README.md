@@ -10,10 +10,11 @@
 -->
 
 ![Metrics](/github-metrics.svg)
-
+<!-- 
 ## Kontakt:
 - SimpleX Chat: [Invite link](https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FN_McQS3F9TGoh4ER0QstUf55kGnNSd-wXfNPZ7HukcM%3D%40smp19.simplex.im%2FiuLXoJ8RKlAGtqPSoPs8efpx14-TDpKH%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEADdwLxImsrMQVst8KB3k5h6GMlyDsGQDNk8sLcgIbFyI%253D%26srv%3Di53bbtoqhlc365k6kxzwdp5w3cdt433s7bwh3y32rcbml2vztiyyz5id.onion) | [QR code](/simplexchat.png)
 - Session: 057a86540dc8ab35176330e300dcb12167651a8e18c67d908c1e6acdcb11689735 | [QR code](/session.png)
+-->
 <!--  <details>
     <summary>Signal</summary>
     <li>DM me on discord for my number</li>
@@ -31,11 +32,6 @@
   - QR code invite:
 <img src="simplexchat.png" style="width:300px">
     
-  </details>
-  
-  <details>
-    <summary>Discord</summary>
-    <li>@marekch</li>
   </details>
   
   <details>
