@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1296" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1280" class="">
     <defs>
         <style/>
     </defs>
@@ -509,7 +509,7 @@
                                         <span>starred Mar 26 2025</span>
                                     </div>
                                 </div>
-                                <div class="field description">🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop &amp; mobile!</div>
+                                <div class="field description">🎧 Open source music client! Available for both desktop &amp; mobile!</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -807,7 +807,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Apr 2025, 16:25:06 (timezone Europe/Bratislava) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Apr 2025, 17:27:15 (timezone Europe/Bratislava) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
